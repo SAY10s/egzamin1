@@ -1,0 +1,2 @@
+POWTÓRZ SOBIE:
+zapytanie4
