@@ -1,2 +1,2 @@
 POWTÓRZ SOBIE:
-zapytanie4
+zapytanie4 //dobra, jest git
