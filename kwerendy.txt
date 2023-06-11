@@ -1,1 +1,2 @@
 SELECT imie, nazwisko FROM autorzy;
+INSERT INTO `czytelnicy` (`id`, `imie`, `nazwisko`, `kod`) VALUES (NULL, 'Anna', 'Michalak', 'ANMI05');
