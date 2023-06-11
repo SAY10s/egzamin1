@@ -25,6 +25,11 @@
             rok urodzenia<input type="number" name="rokurodzenia" id="rokurodzenia"><br>
             <button type="submit">DODAJ</button>
         </form>
+        <?php
+            if(isset($_POST["imie"]) ){
+                echo($_POST["imie"]);
+            }
+        ?>
     </div>
     <div class="prawy">
         <img src="biblioteka.png" alt="książki">

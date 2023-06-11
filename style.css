@@ -20,9 +20,11 @@ ul{
 }
 img{
     margin: 100px;
+    float: left;
 }
 h4{
     margin-left: 100px;
+    margin-top: 200px;
 }
 h2, h3{
     text-align: center;
